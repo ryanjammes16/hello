@@ -30,4 +30,4 @@ jobs:
         with:
           context: ./docker
           push: true
-          tags: linhbngo/go_server:latest
+          tags: ryanjammes/go_server:latest
